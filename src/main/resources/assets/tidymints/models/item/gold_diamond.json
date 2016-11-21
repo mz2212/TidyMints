@@ -1,0 +1,6 @@
+{
+	"parent":"tidymints:item/itemBase",
+	"textures": {
+		"layer0":"tidymints:items/gold_diamond"
+	}
+}

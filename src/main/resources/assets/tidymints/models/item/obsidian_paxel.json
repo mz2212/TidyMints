@@ -1,0 +1,6 @@
+{
+	"parent":"tidymints:item/toolBase",
+	"textures": {
+		"layer0":"tidymints:items/obsidian_paxel"
+	}
+}

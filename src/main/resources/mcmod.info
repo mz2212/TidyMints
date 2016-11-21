@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tidymints",
+  "name": "Tidy Mints",
+  "description": "Tidest's Random schtuff. Doesn't do much (yet!).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tidest"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
